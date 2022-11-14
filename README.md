@@ -1,6 +1,6 @@
 # keyhacks
 
-Automation of the [KeyHacks](https://github.com/streaak/keyhacks) project from [https://github.com/streaak/](Streaak).  
+Automation of the [KeyHacks](https://github.com/streaak/keyhacks) project from [Streaak](https://github.com/streaak/).  
 Feel free to open an issue if you want to add more tests.  
 
 ## Install
