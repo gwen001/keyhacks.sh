@@ -43,7 +43,37 @@ Supported mods are:
   - heroku_api_key
   - infura_api_key
   - instagram_access_token
-...
+  - mailchimp_api_key
+  - mailgun_api_key
+  - mailjet
+  - mapbox_access_token
+  - opsgenie_api_key
+  - pagerduty_api_token
+  - paypal_key_sb
+  - paypal_key_live
+  - paypal_token_sb
+  - paypal_token_live
+  - pendo_integration_key
+  - salesforce_access_token
+  - saucelabs_ukey
+  - securitytrails_key
+  - sendgrid_api_key
+  - slack_api_token
+  - slack_webhook
+  - square_secret
+  - square_auth_token
+  - travisci_api_token
+  - twilio_sid_token
+  - twitter_api_secret
+  - twitter_bearer_token
+  - spotify_access_token
+  - stripe_key_live
+  - wakatime_api_key
+  - wompi_auth_bearer_sb
+  - wompi_auth_bearer_live
+  - wpengine_api_key
+  - zapier_webhook
+  - zendesk_access_token
 ```
 
 <img src="https://raw.githubusercontent.com/gwen001/keyhacks/main/preview.png" />
