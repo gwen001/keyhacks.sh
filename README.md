@@ -1,6 +1,9 @@
 <h1 align="center">keyhacks</h1>
 
-<h4 align="center">Automation of the [KeyHacks](https://github.com/streaak/keyhacks) project from [Streaak](https://github.com/streaak/).</h4>
+<h4 align="center">
+    Automation of the tokens/api keys testing. See the KeyHacks project from Streaak.  
+    https://github.com/streaak/keyhacks
+</h4>
 
 <p align="center">
     <img src="https://img.shields.io/badge/-bash-gray" alt="bash badge">
