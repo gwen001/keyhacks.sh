@@ -1,7 +1,7 @@
 <h1 align="center">keyhacks</h1>
 
 <h4 align="center">
-    Automation of the tokens/api keys testing. See the KeyHacks project from Streaak.  
+    Automation of tokens/api keys testing. See the KeyHacks project from Streaak.  
     https://github.com/streaak/keyhacks
 </h4>
 
