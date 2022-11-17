@@ -40,6 +40,7 @@ Supported mods are:
   - branchio_secret
   - browserstack_access_key
   - buildkite_access_token
+  - cloudflare_api_token
   - comcast_access_token
   - datadog_api_key
   - deviantart_secret
