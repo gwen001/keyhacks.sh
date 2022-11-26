@@ -27,6 +27,7 @@ function usage() {
     echo "  - github_client"
     echo "  - github_ssh_key"
     echo "  - github_token"
+    echo "  - gitlab_token"
     echo "  - gitlab_private_token"
     echo "  - gitlab_runner_registration_token"
     echo "  - google_cm"
@@ -261,6 +262,13 @@ case $1 in
             echo "Usage: $0 $1 <token>"
             echo
             echo "If the token is valid, you should see the result of the search."
+        fi
+    ;;
+    'gitlab_token')
+        if [ $# -eq 2 ] ; then
+            cmd="curl 'https://gitlab.com/api/v4/users?private_token=$2'"
+        else
+            echo "Usage: $0 $1 <token>"
         fi
     ;;
     'gitlab_private_token')
