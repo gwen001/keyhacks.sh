@@ -1,8 +1,7 @@
 <h1 align="center">keyhacks.sh</h1>
 
 <h4 align="center">
-    Automation of tokens/api keys testing. See the KeyHacks project from Streaak.  
-    https://github.com/streaak/keyhacks
+    Automation of tokens/api keys testing.
 </h4>
 
 <p align="center">
@@ -18,6 +17,14 @@
 </p> -->
 
 ---
+
+## Description
+
+This Bash tool can check the validity of API keys from several services. This is very useful when you want to automate the process of testing leaked secrets.
+
+See KeyHacks project from Streaak:
+https://github.com/streaak/keyhacks
+"KeyHacks shows ways in which particular API keys found on a Bug Bounty Program can be used, to check if they are valid."
 
 ## Install
 
